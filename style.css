@@ -1,0 +1,30 @@
+h1 {
+    background: red;
+}
+
+.paragraph-1 {
+    background: blue;
+    font-size: 32pt;
+    color: green;
+}
+
+.paragraph-2 {
+    border: 10px solid yellow;
+    border-radius: 5px;
+    font-size: 24pt;
+    margin-bottom: 60px;
+    padding-bottom: 60px;
+    padding-left: 20px;
+}
+
+#paragraph-3 {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 36pt;
+    font-weight: bold;
+    color: white;
+    background: #2f2f2f;
+    border-radius: 12px;
+    border-width: 3px;
+    border-style: double;
+    padding: 15px;
+}
