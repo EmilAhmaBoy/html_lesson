@@ -1,3 +1,9 @@
+body {
+    background-image: url(https://phonoteka.org/uploads/posts/2022-02/1645191309_1-phonoteka-org-p-chernii-besshovnii-fon-1.jpg);
+    background-size: auto;
+    color: white;
+}
+
 h1 {
     background: red;
 }
