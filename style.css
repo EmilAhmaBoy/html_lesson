@@ -33,4 +33,10 @@ h1 {
     border-width: 3px;
     border-style: double;
     padding: 15px;
+    text-shadow: 5px 5px green;
+}
+
+#paragraph-4 {
+    font-style: italic;
+    font-size: 24px;
 }
